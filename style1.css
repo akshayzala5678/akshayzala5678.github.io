@@ -1,7 +1,6 @@
 body {
-    background-color: #ff5733;
-    margin: 0px;
-    padding: 0px;
+    background:url(panda.jpg);
+    background-size: cover;
 }
 
 
@@ -142,4 +141,5 @@ body {
 	bottom: 105px;
 	right: 10px;
 }
+
 
