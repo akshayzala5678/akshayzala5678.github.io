@@ -1,7 +1,8 @@
 body {
-     background-image: url(panda.jpg);
-     background-size: cover;
- }
+    background-color: #ff5733;
+    margin: 0px;
+    padding: 0px;
+}
 
 
 .panda {
